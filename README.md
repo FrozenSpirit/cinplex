@@ -17,6 +17,8 @@ Fully featured movie app with 13 catagories of genres. Each movie contains full 
 # Every Genre has its own page, this is action genre
 <img width="1440" alt="4" src="https://github.com/FrozenSpirit/cinplex/assets/84676444/cfde5f0c-9e8f-4254-8004-41ecb1254d5d">
 <img width="1440" alt="5" src="https://github.com/FrozenSpirit/cinplex/assets/84676444/7935257b-5fa6-4d8e-a9e3-785c91db90bb">
+
+# This is the Movie Details Page
 <img width="1440" alt="6" src="https://github.com/FrozenSpirit/cinplex/assets/84676444/a9936ea0-49f2-4a87-bef3-c8c2b35a5d2c">
 
 # This is the mobile view of the web application
